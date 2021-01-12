@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,aACI,eACJ,CAEA,QACI,iBAAkB,CAClB,wBAAyB,CACzB,QAAS,CACT,UAEJ","file":"main.2b65b85b.chunk.css","sourcesContent":[".active-task {\n    font-weight: bold;\n}\n\n.footer {\n    position: absolute;\n    background-color: #e9ecef;\n    bottom: 0;\n    width: 100%;\n\n}"]}
