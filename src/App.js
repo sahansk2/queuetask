@@ -113,7 +113,7 @@ const Footer = () => {
             <div className="container p-1">
                 <div className="row">
                     <div className="col text-right">
-                        <a href="https://www.sahansk.com">© Sahan Kumarasinghe 2021</a>
+                        <a href="https://www.sahansk.com">© 2021 Sahan Kumarasinghe</a>
                     </div>
                 </div>
             </div>
